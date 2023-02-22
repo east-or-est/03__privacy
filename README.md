@@ -4,6 +4,6 @@
 
 仕事用HNの方になりますが[^1]、不具合等がありましたら、以下サイトのお問い合わせページからご連絡ください。
 
-https://derive-point.work/contact/fixed/
+https://works.derive-point.work/problem/
 
 [^1]: HNはひがし。活動場所が整い次第、お問い合わせ先を変更する予定です。
