@@ -1,7 +1,7 @@
 # プライバシーポリシー：ENJOY!!フリースペース
 
 - 制定日：2022年7月26日
-- 最終更新日：2023年9月6日
+- 最終更新日：2023年9月21日
  
  ---
  
@@ -59,4 +59,4 @@ QA Analyticsの利用規約およびプライバシーポリシーに関する�
 
 ## 問い合わせ先
 
-当リポジトリ内の[README](https://github.com/east-or-est/02__privacy)を確認ください。
+当リポジトリ内の[README](https://github.com/east-or-est/03__privacy)を確認ください。
